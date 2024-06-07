@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943991684586",
+    "project_id": "agrogpt-34f73",
+    "storage_bucket": "agrogpt-34f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943991684586:android:2ff8c1e9c168ab4c2cc693",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JLoGpL3J1fIIMwxU2GpcKn5Uk8nWUPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
